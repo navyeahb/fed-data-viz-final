@@ -1,0 +1,523 @@
+{
+  "meetings": 47,
+  "federer_wins": 21,
+  "djokovic_wins": 26,
+  "unresolved": 0,
+  "slam_final_meetings": 5,
+  "federer_slam_final_wins": 1,
+  "djokovic_slam_final_wins": 4,
+  "matches": [
+    {
+      "match_id": "20060419-M-Monte_Carlo_Masters-R64-Novak_Djokovic-Roger_Federer",
+      "date": "20060419",
+      "tournament": "Monte Carlo Masters",
+      "round": "R64",
+      "surface": "Clay",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20060922-M-Davis_Cup_World_Group_PO-RR-Roger_Federer-Novak_Djokovic",
+      "date": "20060922",
+      "tournament": "Davis Cup World Group PO",
+      "round": "RR",
+      "surface": "Hard",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20070122-M-Australian_Open-R16-Roger_Federer-Novak_Djokovic",
+      "date": "20070122",
+      "tournament": "Australian Open",
+      "round": "R16",
+      "surface": "Hard",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": true
+    },
+    {
+      "match_id": "20070301-M-Dubai-QF-Roger_Federer-Novak_Djokovic",
+      "date": "20070301",
+      "tournament": "Dubai",
+      "round": "QF",
+      "surface": "Hard",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20070812-M-Canada_Masters-F-Novak_Djokovic-Roger_Federer",
+      "date": "20070812",
+      "tournament": "Canada Masters",
+      "round": "F",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20070909-M-US_Open-F-Roger_Federer-Novak_Djokovic",
+      "date": "20070909",
+      "tournament": "US Open",
+      "round": "F",
+      "surface": "Hard",
+      "winner": "Roger Federer",
+      "is_slam_final": true,
+      "is_slam": true
+    },
+    {
+      "match_id": "20080127-M-Australian_Open-SF-Novak_Djokovic-Roger_Federer",
+      "date": "20080127",
+      "tournament": "Australian Open",
+      "round": "SF",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": true
+    },
+    {
+      "match_id": "20080419-M-Monte_Carlo_Masters-SF-Roger_Federer-Novak_Djokovic",
+      "date": "20080419",
+      "tournament": "Monte Carlo Masters",
+      "round": "SF",
+      "surface": "Clay",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20090404-M-Miami_Masters-SF-Roger_Federer-Novak_Djokovic",
+      "date": "20090404",
+      "tournament": "Miami Masters",
+      "round": "SF",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20090503-M-Rome_Masters-SF-Novak_Djokovic-Roger_Federer",
+      "date": "20090503",
+      "tournament": "Rome Masters",
+      "round": "SF",
+      "surface": "Clay",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20090816-M-Cincinnati_Masters-F-Roger_Federer-Novak_Djokovic",
+      "date": "20090816",
+      "tournament": "Cincinnati Masters",
+      "round": "F",
+      "surface": "Hard",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20090913-M-US_Open-SF-Novak_Djokovic-Roger_Federer",
+      "date": "20090913",
+      "tournament": "US Open",
+      "round": "SF",
+      "surface": "Hard",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": true
+    },
+    {
+      "match_id": "20091108-M-Basel-F-Roger_Federer-Novak_Djokovic",
+      "date": "20091108",
+      "tournament": "Basel",
+      "round": "F",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20100815-M-Canada_Masters-SF-Roger_Federer-Novak_Djokovic",
+      "date": "20100815",
+      "tournament": "Canada Masters",
+      "round": "SF",
+      "surface": "Hard",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20100903-M-US_Open-SF-Novak_Djokovic-Roger_Federer",
+      "date": "20100903",
+      "tournament": "US Open",
+      "round": "SF",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": true
+    },
+    {
+      "match_id": "20101015-M-Shanghai_Masters-SF-Novak_Djokovic-Roger_Federer",
+      "date": "20101015",
+      "tournament": "Shanghai Masters",
+      "round": "SF",
+      "surface": "Hard",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20101107-M-Basel-F-Novak_Djokovic-Roger_Federer",
+      "date": "20101107",
+      "tournament": "Basel",
+      "round": "F",
+      "surface": "Hard",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20101126-M-Tour_Finals-SF-Roger_Federer-Novak_Djokovic",
+      "date": "20101126",
+      "tournament": "Tour Finals",
+      "round": "SF",
+      "surface": "Hard",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20110127-M-Australian_Open-SF-Novak_Djokovic-Roger_Federer",
+      "date": "20110127",
+      "tournament": "Australian Open",
+      "round": "SF",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": true
+    },
+    {
+      "match_id": "20110221-M-Dubai-F-Roger_Federer-Novak_Djokovic",
+      "date": "20110221",
+      "tournament": "Dubai",
+      "round": "F",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20110319-M-Indian_Wells_Masters-SF-Roger_Federer-Novak_Djokovic",
+      "date": "20110319",
+      "tournament": "Indian Wells Masters",
+      "round": "SF",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20110603-M-Roland_Garros-SF-Novak_Djokovic-Roger_Federer",
+      "date": "20110603",
+      "tournament": "Roland Garros",
+      "round": "SF",
+      "surface": "Clay",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": true
+    },
+    {
+      "match_id": "20110909-M-US_Open-SF-Roger_Federer-Novak_Djokovic",
+      "date": "20110909",
+      "tournament": "US Open",
+      "round": "SF",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": true
+    },
+    {
+      "match_id": "20120519-M-Rome_Masters-SF-Roger_Federer-Novak_Djokovic",
+      "date": "20120519",
+      "tournament": "Rome Masters",
+      "round": "SF",
+      "surface": "Clay",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20120608-M-Roland_Garros-SF-Novak_Djokovic-Roger_Federer",
+      "date": "20120608",
+      "tournament": "Roland Garros",
+      "round": "SF",
+      "surface": "Clay",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": true
+    },
+    {
+      "match_id": "20120706-M-Wimbledon-SF-Roger_Federer-Novak_Djokovic",
+      "date": "20120706",
+      "tournament": "Wimbledon",
+      "round": "SF",
+      "surface": "Grass",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": true
+    },
+    {
+      "match_id": "20120818-M-Cincinnati_Masters-F-Novak_Djokovic-Roger_Federer",
+      "date": "20120818",
+      "tournament": "Cincinnati Masters",
+      "round": "F",
+      "surface": "Hard",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20121112-M-Tour_Finals-F-Roger_Federer-Novak_Djokovic",
+      "date": "20121112",
+      "tournament": "Tour Finals",
+      "round": "F",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20131102-M-Paris_Masters-SF-Novak_Djokovic-Roger_Federer",
+      "date": "20131102",
+      "tournament": "Paris Masters",
+      "round": "SF",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20131105-M-Tour_Finals-RR-Novak_Djokovic-Roger_Federer",
+      "date": "20131105",
+      "tournament": "Tour Finals",
+      "round": "RR",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20140228-M-Dubai-SF-Novak_Djokovic-Roger_Federer",
+      "date": "20140228",
+      "tournament": "Dubai",
+      "round": "SF",
+      "surface": "Hard",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20140413-M-Monte_Carlo_Masters-SF-Novak_Djokovic-Roger_Federer",
+      "date": "20140413",
+      "tournament": "Monte Carlo Masters",
+      "round": "SF",
+      "surface": "Clay",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20140706-M-Wimbledon-F-Novak_Djokovic-Roger_Federer",
+      "date": "20140706",
+      "tournament": "Wimbledon",
+      "round": "F",
+      "surface": "Grass",
+      "winner": "Novak Djokovic",
+      "is_slam_final": true,
+      "is_slam": true
+    },
+    {
+      "match_id": "20150228-M-Dubai-F-Roger_Federer-Novak_Djokovic",
+      "date": "20150228",
+      "tournament": "Dubai",
+      "round": "F",
+      "surface": "Hard",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20150322-M-Indian_Wells_Masters-F-Novak_Djokovic-Roger_Federer",
+      "date": "20150322",
+      "tournament": "Indian Wells Masters",
+      "round": "F",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20150517-M-Rome_Masters-F-Novak_Djokovic-Roger_Federer",
+      "date": "20150517",
+      "tournament": "Rome Masters",
+      "round": "F",
+      "surface": "Clay",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20150712-M-Wimbledon-F-Roger_Federer-Novak_Djokovic",
+      "date": "20150712",
+      "tournament": "Wimbledon",
+      "round": "F",
+      "surface": "Grass",
+      "winner": "Novak Djokovic",
+      "is_slam_final": true,
+      "is_slam": true
+    },
+    {
+      "match_id": "20150823-M-Cincinnati_Masters-F-Novak_Djokovic-Roger_Federer",
+      "date": "20150823",
+      "tournament": "Cincinnati Masters",
+      "round": "F",
+      "surface": "Hard",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20150913-M-US_Open-F-Roger_Federer-Novak_Djokovic",
+      "date": "20150913",
+      "tournament": "US Open",
+      "round": "F",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": true,
+      "is_slam": true
+    },
+    {
+      "match_id": "20151117-M-Tour_Finals-RR-Roger_Federer-Novak_Djokovic",
+      "date": "20151117",
+      "tournament": "Tour Finals",
+      "round": "RR",
+      "surface": "Hard",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20151122-M-Tour_Finals-F-Roger_Federer-Novak_Djokovic",
+      "date": "20151122",
+      "tournament": "Tour Finals",
+      "round": "F",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20160128-M-Australian_Open-SF-Novak_Djokovic-Roger_Federer",
+      "date": "20160128",
+      "tournament": "Australian Open",
+      "round": "SF",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": true
+    },
+    {
+      "match_id": "20180819-M-Cincinnati_Masters-F-Roger_Federer-Novak_Djokovic",
+      "date": "20180819",
+      "tournament": "Cincinnati Masters",
+      "round": "F",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20181103-M-Paris_Masters-SF-Novak_Djokovic-Roger_Federer",
+      "date": "20181103",
+      "tournament": "Paris Masters",
+      "round": "SF",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20190714-M-Wimbledon-F-Roger_Federer-Novak_Djokovic",
+      "date": "20190714",
+      "tournament": "Wimbledon",
+      "round": "F",
+      "surface": "Grass",
+      "winner": "Novak Djokovic",
+      "is_slam_final": true,
+      "is_slam": true
+    },
+    {
+      "match_id": "20191114-M-Tour_Finals-RR-Novak_Djokovic-Roger_Federer",
+      "date": "20191114",
+      "tournament": "Tour Finals",
+      "round": "RR",
+      "surface": "Hard",
+      "winner": "Roger Federer",
+      "is_slam_final": false,
+      "is_slam": false
+    },
+    {
+      "match_id": "20200130-M-Australian_Open-SF-Roger_Federer-Novak_Djokovic",
+      "date": "20200130",
+      "tournament": "Australian Open",
+      "round": "SF",
+      "surface": "Hard",
+      "winner": "Novak Djokovic",
+      "is_slam_final": false,
+      "is_slam": true
+    }
+  ],
+  "federer": {
+    "first_serve_win_pct": 73.1,
+    "second_serve_win_pct": 50.9,
+    "return_pts_won_pct": 36.4,
+    "winner_ufe_ratio": 0.95,
+    "bp_saved_pct": 60.9,
+    "surfaces": {
+      "Hard": {
+        "first_serve_win_pct": 72.3,
+        "return_pts_won_pct": 36.9
+      },
+      "Grass": {
+        "first_serve_win_pct": 76.6,
+        "return_pts_won_pct": 32.9
+      },
+      "Clay": {
+        "first_serve_win_pct": 73.2,
+        "return_pts_won_pct": 37.7
+      }
+    }
+  },
+  "djokovic": {
+    "first_serve_win_pct": 68.4,
+    "second_serve_win_pct": 54.7,
+    "return_pts_won_pct": 35.5,
+    "winner_ufe_ratio": 0.84,
+    "bp_saved_pct": 63.4,
+    "surfaces": {
+      "Hard": {
+        "first_serve_win_pct": 68.0,
+        "return_pts_won_pct": 36.0
+      },
+      "Grass": {
+        "first_serve_win_pct": 73.4,
+        "return_pts_won_pct": 31.7
+      },
+      "Clay": {
+        "first_serve_win_pct": 66.1,
+        "return_pts_won_pct": 36.7
+      }
+    }
+  }
+}
